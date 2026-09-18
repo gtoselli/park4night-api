@@ -37,7 +37,7 @@
 
   Params
 
-  - username (es gtosee)
+  - uuid (es gtosee)
 
   Return a list of [Place model](models/place.model.md).
 
